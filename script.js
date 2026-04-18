@@ -10,7 +10,7 @@ btn.addEventListener("click",function(){
         
      }else{
         bulb.style.backgroundcolor="transparent"
-       console.log("Again  Clicked")
+       console.log("Again Clicked")
          flag=0
         
 
